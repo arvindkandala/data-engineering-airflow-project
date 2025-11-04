@@ -1,0 +1,9 @@
+{"timestamp":"2025-11-04T04:51:21.770051Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-11-04T04:51:21.770612Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-04T04:51:21.989212Z","level":"info","event":"Keeping: /opt/airflow/data/coin_Bitcoin.csv","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.989447Z","level":"info","event":"Removed file: /opt/airflow/data/crypto_merged.csv","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.989903Z","level":"info","event":"Removed file: /opt/airflow/data/ethereum.csv","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.990021Z","level":"info","event":"Keeping: /opt/airflow/data/coin_Ethereum.csv","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.990163Z","level":"info","event":"Removed file: /opt/airflow/data/bitcoin.csv","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.990256Z","level":"info","event":"Clean process completed!","logger":"task.stdout"}
+{"timestamp":"2025-11-04T04:51:21.990102Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":218}

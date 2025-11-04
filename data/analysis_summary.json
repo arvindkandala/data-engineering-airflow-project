@@ -1,0 +1,7 @@
+{
+  "rows_read": 6480,
+  "rows_used_for_returns": 6479,
+  "corr_eth_vs_btc_returns": 0.5177814203825486,
+  "beta_eth_on_btc_returns": 0.8211761037122715,
+  "alpha_eth_on_btc_returns": 0.0010520525286463317
+}
